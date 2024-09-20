@@ -1,3 +1,0 @@
-*.bat eol=crlf
-.gitlab-ci.yml export-ignore
-.gitmodules export-ignore
